@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @aliatieh95
-- 👀 I’m interested in Development 
-- 🌱 I’m already graduated 2021
-- 💞️ I’m looking to internship to gain experience 
-- 📫 How to reach me +447770770313 or aliatieh95@gmail.com
+hello I am Ali Atiyeh 
